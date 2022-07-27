@@ -1,2 +1,3 @@
 # Meu Gith
- Primeiro repositorio de githhub
+ Primeiro repositório do curso de githhub
+ Repositório criado durante o período acadêmico do curso de Análise e Desenvolvimento de Sistemas
